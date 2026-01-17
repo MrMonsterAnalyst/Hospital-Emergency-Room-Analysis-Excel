@@ -37,4 +37,4 @@ Notes for Recruiters
 
 Built entirely in Excel (no VBA, no macros) Designed to mirror real business reporting dashboards Focused on clarity, performance tracking, and decision support This project demonstrates the ability to translate raw retail data into structured, actionable insights using Excel.
 
-![image alt]()
+![image alt](https://github.com/MrMonsterAnalyst/Hospital-Emergency-Room-Analysis-Excel/blob/891acd1846050aef736a792483fefb339097f49e/Hospital%20ER%20Dashboard.png)
