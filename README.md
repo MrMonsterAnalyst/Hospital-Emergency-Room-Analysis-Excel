@@ -4,6 +4,7 @@ Tools: Excel (Power Query, Pivot Tables, Advanced Charts, Slicers)
 
 Domain: Healthcare Analytics | Operations & Patient Experience
 
+
 Project Overview:
 Developed a monthly Emergency Room operations dashboard to analyze patient volume, wait times, admission outcomes, departmental referrals, and patient satisfaction, with the objective of identifying bottlenecks, demand patterns, and service-quality risks in a high-pressure healthcare environment.
 
